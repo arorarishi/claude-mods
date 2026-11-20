@@ -1,0 +1,10 @@
+{
+  "name": "pip-axolotl",
+  "version": "0.1.0",
+  "description": "Animated pixel-art axolotl (Pip) and nautilus (Nemo) above the prompt, plus a usage strip with context, plan limits and renewal countdown",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "arorarishi"
+  }
+}

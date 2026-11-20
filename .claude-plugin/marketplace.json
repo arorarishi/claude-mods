@@ -1,0 +1,11 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "arorarishi" },
+  "plugins": [
+    {
+      "name": "pip-axolotl",
+      "source": "./pip-axolotl",
+      "description": "Animated pixel-art axolotl (Pip) and nautilus (Nemo) above the prompt, plus a usage strip: context, plan limits and renewal countdown"
+    }
+  ]
+}
