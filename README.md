@@ -37,6 +37,18 @@ claude plugin install pip-axolotl --marketplace arorarishi/claude-mods
 In the desktop app: click **+** next to the prompt box → **Plugins** → **Add marketplace** with
 `arorarishi/claude-mods` → **Add plugin**.
 
+## wsl-greeter 🖥️
+
+The same characters as a login greeter for WSL / Linux bash: an animated Pip & Nemo with a greeting,
+date, system info and a coding tip each time you open a terminal. Not a Claude Code mod; install with:
+
+```bash
+git clone https://github.com/arorarishi/claude-mods.git
+bash claude-mods/wsl-greeter/install.sh
+```
+
+See [wsl-greeter/README.md](wsl-greeter/README.md).
+
 ## License
 
 MIT
